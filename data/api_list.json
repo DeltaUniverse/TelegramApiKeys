@@ -1,62 +1,77 @@
-{
-    "Debian": {
+[
+    {
+        "name": "debian",
         "api_id": 50322,
         "api_hash": "9ff1a639196c0779c86dd661af8522ba"
     },
-    "Arch/Alpine/FreeBSD (Default)": {
+    {
+        "name": "arch_alpine_freebsd",
         "api_id": 17349,
         "api_hash": "344583e45741c457fe1862106095a5eb"
     },
-    "openSUSE/Snap/Flatpak": {
+    {
+        "name": "opensuse_snap_flatpak",
         "api_id": 611335,
         "api_hash": "d524b414d21f4d37f08684c1df41ac9c"
     },
-    "Void Linux": {
+    {
+        "name": "void_linux",
         "api_id": 209235,
         "api_hash": "169ee702e1df4b6e66d80311db36cc43"
     },
-    "Gentoo (Upstream)": {
+    {
+        "name": "gentoo_upstream",
         "api_id": 2040,
         "api_hash": "b18441a1ff607e10a989891a5462e627"
     },
-    "Public Android Beta": {
+    {
+        "name": "public_android_beta",
         "api_id": 4,
         "api_hash": "014b35b6184100b085b0d0572f9b5103"
     },
-    "Public Static Final": {
+    {
+        "name": "public_static_final",
         "api_id": 5,
         "api_hash": "1c5c96d5edd401b1ed40db3fb5633e2d"
     },
-    "Distributed Android": {
+    {
+        "name": "distributed_android",
         "api_id": 6,
         "api_hash": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
     },
-    "Public iOS Beta": {
+    {
+        "name": "public_ios_beta",
         "api_id": 8,
         "api_hash": "7245de8e747a0d6fbe11f7cc14fcc0bb"
     },
-    "Nicegram": {
+    {
+        "name": "nicegram",
         "api_id": 94575,
         "api_hash": "a3406de8d171bb422bb6ddf3bbd800e2"
     },
-    "Webogram": {
+    {
+        "name": "webogram",
         "api_id": 2496,
         "api_hash": "8da85b0d5bfe62527e5b244c209159c3"
     },
-    "TGX for Android": {
+    {
+        "name": "tgx_android",
         "api_id": 21724,
         "api_hash": "3e0cb5efcd52300aec5994fdfc5bdc16"
     },
-    "Telegram for iOS": {
+    {
+        "name": "telegram_ios",
         "api_id": 94575,
         "api_hash": "a3406de8d171bb422bb6ddf3bbd800e2"
     },
-    "TG-React": {
+    {
+        "name": "tg_react",
         "api_id": 414121,
         "api_hash": "db09ccfc2a65e1b14a937be15bdb5d4b"
     },
-    "Nagram": {
+    {
+        "name": "nagram",
         "api_id": 11535358,
         "api_hash": "33d372962fadb01df47e6ceed4e33cd6"
     }
-}
+]
