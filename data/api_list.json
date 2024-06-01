@@ -1,0 +1,62 @@
+{
+    "Debian": {
+        "api_id": 50322,
+        "api_hash": "9ff1a639196c0779c86dd661af8522ba"
+    },
+    "Arch/Alpine/FreeBSD (Default)": {
+        "api_id": 17349,
+        "api_hash": "344583e45741c457fe1862106095a5eb"
+    },
+    "openSUSE/Snap/Flatpak": {
+        "api_id": 611335,
+        "api_hash": "d524b414d21f4d37f08684c1df41ac9c"
+    },
+    "Void Linux": {
+        "api_id": 209235,
+        "api_hash": "169ee702e1df4b6e66d80311db36cc43"
+    },
+    "Gentoo (Upstream)": {
+        "api_id": 2040,
+        "api_hash": "b18441a1ff607e10a989891a5462e627"
+    },
+    "Public Android Beta": {
+        "api_id": 4,
+        "api_hash": "014b35b6184100b085b0d0572f9b5103"
+    },
+    "Public Static Final": {
+        "api_id": 5,
+        "api_hash": "1c5c96d5edd401b1ed40db3fb5633e2d"
+    },
+    "Distributed Android": {
+        "api_id": 6,
+        "api_hash": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    },
+    "Public iOS Beta": {
+        "api_id": 8,
+        "api_hash": "7245de8e747a0d6fbe11f7cc14fcc0bb"
+    },
+    "Nicegram": {
+        "api_id": 94575,
+        "api_hash": "a3406de8d171bb422bb6ddf3bbd800e2"
+    },
+    "Webogram": {
+        "api_id": 2496,
+        "api_hash": "8da85b0d5bfe62527e5b244c209159c3"
+    },
+    "TGX for Android": {
+        "api_id": 21724,
+        "api_hash": "3e0cb5efcd52300aec5994fdfc5bdc16"
+    },
+    "Telegram for iOS": {
+        "api_id": 94575,
+        "api_hash": "a3406de8d171bb422bb6ddf3bbd800e2"
+    },
+    "TG-React": {
+        "api_id": 414121,
+        "api_hash": "db09ccfc2a65e1b14a937be15bdb5d4b"
+    },
+    "Nagram": {
+        "api_id": 11535358,
+        "api_hash": "33d372962fadb01df47e6ceed4e33cd6"
+    }
+}
